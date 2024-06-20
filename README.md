@@ -1,1 +1,1 @@
-<iframe width="2560" height="1110" src="https://www.youtube.com/embed/GGONLWkufok" title="VR WoodWork Simulator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Label](http://img.youtube.com/vi/GGONLWkufok/0.jpg)](https://youtu.be/GGONLWkufok)
